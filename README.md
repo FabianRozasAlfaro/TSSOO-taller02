@@ -1,7 +1,7 @@
-Taller 02 threads 
+# Taller 02 threads 
 
-Fabian Rozas Alfaro
-fabian.rozas@alumnos.uv.cl
+• Fabian Rozas Alfaro
+• fabian.rozas@alumnos.uv.cl
 
-Diseño de la solución
+# Diseño de la solución
 
