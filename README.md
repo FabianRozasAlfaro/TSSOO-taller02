@@ -5,7 +5,7 @@
 
 # Diseño de la solución
 
-Realizar una implementación de un programa con threads POSIX que llene un arreglo de números enteros y luego los sume. Estás tareas se deben realizar en forma paralela. 
+Realizar una implementación de un programa con threads POSIX que llene un arreglo de números enteros aleatorios y luego los sume. Estás tareas se deben realizar en forma paralela. 
 
 • Se debe de crear un arreglo y ser llenado con números aleatorios definidos por los parámetros deentrada.
 
