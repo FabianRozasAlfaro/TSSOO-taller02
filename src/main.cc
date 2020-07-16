@@ -1,6 +1,5 @@
 #include <checkArgs.hpp>
 #include <global.h>
-// se siguió con ayuda de los archivos propuestos en U2
 
 uint64_t* array = nullptr; 
 uint32_t sumaArray = 0;
