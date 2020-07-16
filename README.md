@@ -7,7 +7,7 @@
 
 Realizar una implementación de un programa con threads POSIX que llene un arreglo de números enteros aleatorios y luego los sume. Estás tareas se deben realizar en forma paralela. 
 
-• Se debe de crear un arreglo y ser llenado con números aleatorios definidos por los parámetros deentrada.
+• Se debe de crear un arreglo y ser llenado con números aleatorios definidos por los parámetros de entrada.
 
 • Calcular el tiempo de ejecución para el módulo que llena el arreglo.
 
